@@ -1,0 +1,8 @@
+first-attempt
+hidden
+/cleanup-report-*.txt
+/verification-report-*.txt
+/backups/*
+.env
+.env.*
+/data/*
